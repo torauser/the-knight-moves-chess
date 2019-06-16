@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: sans-serif;
+}
+p,h1 {
+    padding: 20px;
+}
+#field {
+    width: 320px;
+    height: 320px;
+    margin: 50px auto;
+}
+.block {
+    width: 40px;
+    height: 40px;
+    float: left;
+    background: #ffeec1;
+}
+.dark {
+    background-color: darkgrey;
+}
+
